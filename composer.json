@@ -1,0 +1,19 @@
+{
+    "name": "igorsantos07/yii-jsoncontroller",
+    "description": "Simple controller to be used for REST services. Helps with Content-Type and JSON output.",
+    "keywords": ["yii","yii-1.1", "webservice", "rest", "restful", "controller", "json"],
+    "type": "yii-extension",
+    "require": {
+	"php": ">=5.4",
+        "yiisoft/yii": ">=1.1.14"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Santos",
+            "email": "igorsantos07@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
