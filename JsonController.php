@@ -5,7 +5,7 @@
  * @todo overwrite all the other render methods to disable all of them. They should not pertain to this type of controller.
  * @todo maybe we could replace $layout=false by overriding getLayoutFile() to always return false
  */
-class JsonController extends Controller {
+class JsonController extends CController {
 
 	public $layout = false;
 
