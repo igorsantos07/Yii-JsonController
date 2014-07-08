@@ -3,7 +3,7 @@
     "description": "Simple controller to be used for REST services. Helps with Content-Type and JSON output.",
     "keywords": ["yii","yii-1.1", "webservice", "rest", "restful", "controller", "json"],
     "type": "yii-extension",
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "minimum-stability": "dev",
     "prefer-stable": true,
 
@@ -15,14 +15,8 @@
     "authors": [
         {
             "name": "Igor Santos",
-            "email": "igorsantos07+bugs@gmail.com",
+            "email": "igorsantos07+dev@gmail.com",
             "homepage": "http://www.igorsantos.com.br"
 	}
-    ],
-
-    "support": {
-        "email": "igorsantos07+dev@gmail.com",
-        "issues": "https://github.com/igorsantos07/Yii-JsonController/issues",
-        "source": "https://github.com/igorsantos07/Yii-JsonController"
-    }
+    ]
 }
